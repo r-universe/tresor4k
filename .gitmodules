@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/tresor4k/tresor4k.r-universe.dev
 	branch = HEAD
+[submodule "frbaremekm"]
+	path = frbaremekm
+	url = https://github.com/tresor4k/fr-bareme-km-r
 [submodule "marronniers"]
 	path = marronniers
 	url = https://github.com/tresor4k/marronniers-r
