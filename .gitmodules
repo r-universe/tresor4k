@@ -8,3 +8,6 @@
 [submodule "marronniers"]
 	path = marronniers
 	url = https://github.com/tresor4k/marronniers-r
+[submodule "wh347"]
+	path = wh347
+	url = https://github.com/tresor4k/wh347-r
